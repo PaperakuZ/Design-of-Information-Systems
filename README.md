@@ -1,2 +1,2 @@
-# Design-of-Information-Systems
-Source codes for DIS and PIS courses.
+Dobrý den,
+moje jméno je Marek 491163
